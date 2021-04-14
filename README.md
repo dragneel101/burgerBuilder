@@ -1,4 +1,7 @@
 # burgerBuilder
+
+demo: https://rkhaitu-burgerbuilder.herokuapp.com/
+
 How to use the downloaded files
 
 1) Run "npm install" in the extracted folder
